@@ -1,5 +1,5 @@
 # Minitalk
-# - Data exchange program using UNIX signals
+# Data exchange program using UNIX signals
 
 Minitalk no bitwise :
 
